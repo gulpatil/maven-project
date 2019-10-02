@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# copy the new jar into build location
+# Copy the new jar file into build location 
 
 cp -f java-app/target/*.jar jenkins/build/
 
